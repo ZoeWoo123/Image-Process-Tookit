@@ -1,5 +1,6 @@
 -written by Jiayue Wu
 -code in python3
+-This is an image process toolkit, more information please see .pdf file
 -start from main.py
 -require
 import tkinter as tk
